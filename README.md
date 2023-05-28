@@ -20,4 +20,4 @@
 # Preventing Piracy:
 - Verify The Game Installation Path & [Steam](https://store.steampowered.com/about/) is Installed.
 - Compare Steam UserID in Regestry to [Steam_AutoCloud.vdf](https://help.steampowered.com/en/faqs/view/68D2-35AB-09A9-7678)
-- 
+- Compare Game Bytes to Known Good Installation Bytes (Both **.pak* **.exe*).
