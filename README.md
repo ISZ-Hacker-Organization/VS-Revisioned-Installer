@@ -11,13 +11,13 @@
 - Source Code (*.py) [Download]().
 
 # Planned Updates:
-- Verify Steam is Installed *And Game Installation is [Legitimate](). (Next Updated).
+- Verify Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy). (Next Updated).
 - 
 - 
 
 
 
 # Preventing Piracy:
-- note 1
-- note 2
-- note 3
+- Verify The Game Installation Path & [Steam](https://store.steampowered.com/about/) is Installed.
+- Compare Steam UserID in Regestry to [Steam_AutoCloud.vdf](https://help.steampowered.com/en/faqs/view/68D2-35AB-09A9-7678)
+- 
