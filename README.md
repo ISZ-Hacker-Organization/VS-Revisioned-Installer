@@ -12,8 +12,8 @@
 
 # Planned Updates:
 - Verify Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy). (Next Updated).
-- 
-- 
+- Fixing Mod Files (Integrety).
+- More QoL Improvements (Including Mod Updates).
 
 
 
