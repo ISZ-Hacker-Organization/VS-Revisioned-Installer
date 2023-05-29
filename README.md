@@ -7,12 +7,11 @@
 - Installs (**dxgi.dll, UnrealModUnlocker.dll, _mod.dll**).
 
 # Download(s):
-- Compiled Installer (*.exe) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v1.0-release-1/VS-Revisioned-Installer.exe).
-- Source Code (*.py) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v1.0-release-1/VS-Revisioned-Installer.py).
+- Compiled Installer (*.exe) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v2.0-release-1/VS-Revisioned-Installer.exe).
+- Source Code (*.py) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v2.0-release-1/VS-Revisioned-Installer.py).
 
 # Planned Updates:
 - Verify Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy). (Next Updated).
-- Detect Installation on Other Disks.
 - Fixing Mod Files (Integrety).
 - More QoL Improvements (Including Mod Updates).
 
