@@ -11,7 +11,7 @@
 - Source Code (*.py) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v2.0-release-1/VS-Revisioned-Installer.py).
 
 # Planned Updates:
-- Verify Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy). (Next Updated).
+- Verify Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy) (Next Update Hopefully).
 - Fixing Mod Files (Integrety).
 - More QoL Improvements (Including Mod Updates).
 
