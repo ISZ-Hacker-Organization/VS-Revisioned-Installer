@@ -4,14 +4,14 @@
 # What It Installs:
 - Installs Multiple Files for Modding [Vampire Slayer: The Resurrection](https://store.steampowered.com/app/2188960/Vampire_Slayer_The_Resurrection/) (VS-Revisioned).
 - Includes Patching the **ISZ-Win64-Shipping.exe** & Removing [SteamStub DRM](https://github.com/atom0s/Steamless#what-is-steamstub-drm).
+- Verify's Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy).
 - Installs (**dxgi.dll, UnrealModUnlocker.dll, _mod.dll**).
 
 # Download(s):
-- Compiled Installer (*.exe) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v2.0-release-1/VS-Revisioned-Installer.exe).
-- Source Code (*.py) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v2.0-release-1/VS-Revisioned-Installer.py).
+- Compiled Installer (*.exe) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v3.0-release-1/VS-Revisioned-Installer.exe).
+- Source Code (*.py) [Download](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer/releases/download/v3.0-release-1/VS-Revisioned-Installer.py).
 
 # Planned Updates:
-- Verify Steam is Installed *And Game Installation is [Legitimate](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer#preventing-piracy) (Next Update Hopefully).
 - Fixing Mod Files (Integrety).
 - More QoL Improvements (Including Mod Updates).
 
