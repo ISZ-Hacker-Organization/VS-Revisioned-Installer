@@ -1,5 +1,6 @@
 # VS-Revisioned-Installer
 - Open-Source Installer for [VS-Revisioned](https://github.com/Cracko298/VS-Revisioned-Files) to Install the Mod.
+- Should be able to auto-detect the install path of [Vampire Slayer: The Resurrection](https://store.steampowered.com/app/2188960/Vampire_Slayer_The_Resurrection/).
 
 # What It Installs:
 - Installs Multiple Files for Modding [Vampire Slayer: The Resurrection](https://store.steampowered.com/app/2188960/Vampire_Slayer_The_Resurrection/) (VS-Revisioned).
